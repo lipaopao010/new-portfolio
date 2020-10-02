@@ -2,6 +2,10 @@
 
 deployed link: https://fervent-murdock-2ac62e.netlify.app/
 
+<h2 align="center">
+  <img src="https://github.com/lipaopao010/new-portfolio/examples/new-portfolio.gif" alt="portfolio" width="600px" />
+  <br>
+</h2>
 
 ## Features
 
